@@ -1,0 +1,9 @@
+{
+  "font_size": 9,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "word_wrap": false,
+  "auto_match_enabled": false,
+  "ensure_newline_at_eof_on_save": true,
+  "auto_complete": false
+}
