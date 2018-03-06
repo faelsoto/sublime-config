@@ -5,5 +5,10 @@
   "word_wrap": false,
   "auto_match_enabled": false,
   "ensure_newline_at_eof_on_save": true,
-  "auto_complete": false
+  "auto_complete": false,
+  "auto_close_tags": false,
+  "trim_trailing_white_space_on_save": true,
+  "ensure_newline_at_eof_on_save": true,
+  "show_definitions": false,
+  "folder_exclude_patterns": [".git", ".sass-cache"]
 }
